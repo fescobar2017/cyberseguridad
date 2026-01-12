@@ -161,10 +161,10 @@ export default function CyberDashboard() {
                 <div className="absolute inset-0 bg-neon-green/20 blur-lg" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-foreground tracking-tight">CyberScan</h1>
+                <h1 className="text-xl font-bold text-foreground tracking-tight">Escaneo APP INTEGRATIVA SERVIDORES</h1>
                 <p className="text-xs text-muted-foreground flex items-center gap-1">
                   <Terminal className="w-3 h-3" />
-                  Panel de Análisis de Seguridad
+                  BY Francisco Escobar
                 </p>
               </div>
             </div>
